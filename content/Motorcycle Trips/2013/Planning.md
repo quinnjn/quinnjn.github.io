@@ -24,7 +24,7 @@ The riders included:
 
 *Bike:* 2007 Honda Shadow 750 Spirit (C2)
 
-![Quinn's Bike](images/Motorcycle%20Trip/2013/1981_Honda_CB750_Custom.jpg)
+![Quinn's Bike](images/Motorcycle%20Trip/2013/2007_Honda_Shadow_750_Spirit_C2.jpg)
 
 
 ** Andrew **
