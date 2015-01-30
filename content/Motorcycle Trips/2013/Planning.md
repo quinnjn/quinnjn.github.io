@@ -24,8 +24,10 @@ The riders included:
 
 *Bike:* 2007 Honda Shadow 750 Spirit (C2)
 
-![Quinn's Bike](images/Motorcycle%20Trip/2013/2007_Honda_Shadow_750_Spirit_C2.jpg)
-
+<img
+  src="images/Motorcycle%20Trip/2013/2007_Honda_Shadow_750_Spirit_C2.jpg"
+  alt="Quinn's Bike"
+  style="width: 350px;"/>
 
 ** Andrew **
 
@@ -33,7 +35,10 @@ The riders included:
 
 *Bike:* 2007 Kawasaki 1600 Vulcan Mean Streak Special Edition
 
-![Andrew's Bike](images/Motorcycle%20Trip/2013/2007_Kawasaki_1600_Vulcan_Mean_Streak_Special_Edition.jpg)
+<img
+  src="images/Motorcycle%20Trip/2013/2007_Kawasaki_1600_Vulcan_Mean_Streak_Special_Edition.jpg"
+  alt="Andrew's Bike"
+  style="width: 350px;"/>
 
 ** David **
 
@@ -41,8 +46,10 @@ The riders included:
 
 *Bike:* 1981 Honda CB750 Custom
 
-![David's Bike](images/Motorcycle%20Trip/2013/1981_Honda_CB750_Custom.jpg)
-
+<img
+  src="images/Motorcycle%20Trip/2013/1981_Honda_CB750_Custom.jpg"
+  alt="David's Bike"
+  style="width: 350px;"/>
 
 ** Jeff **
 
@@ -50,8 +57,10 @@ The riders included:
 
 *Bike:* 2009 Suzuki Boulevard C50SE
 
-![Jeff's Bike](images/Motorcycle%20Trip/2013/1981_Honda_CB750_Custom.jpg)
-
+<img
+  src="images/Motorcycle%20Trip/2013/2009_Suzuki_Boulevard_C50SE.jpg"
+  alt="Jeff's Bike"
+  style="width: 350px;"/>
 
 # Planning Phase
 
